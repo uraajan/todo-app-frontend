@@ -1,0 +1,22 @@
+body {
+    padding: 30px 30px;
+}
+
+/* button {
+    background-color: green;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px 5px;
+    color: white;
+    font-size: 15px;
+} */
+
+.count {
+    font-size: 150px;
+}
+
+.reset {
+    background-color: red;
+    width: 210px;
+}
